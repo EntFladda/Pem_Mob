@@ -1,0 +1,48 @@
+Berikut adalah rangkuman poin-poin penting dari materi tentang Bahasa Pemrograman Dart sebagai dasar pengembangan aplikasi mobile dengan framework Flutter:
+
+1. Pengantar Bahasa Dart
+Dart adalah bahasa inti dalam pengembangan Flutter.
+Dart memberikan pengalaman pengembangan yang modern dan efisien.
+Pemahaman Dart diperlukan untuk memanfaatkan fitur dan kemampuan Flutter secara maksimal.
+2. Keunggulan Bahasa Dart
+Productive tooling: Dart memiliki alat yang kaya untuk pengembangan seperti analisis kode dan plugin IDE.
+Garbage collection: Mengelola memori yang tidak lagi digunakan.
+Type-safe dan Type inference: Mendukung tipe statis dengan fitur pemeriksaan tipe otomatis, membantu mencegah bug saat kompilasi.
+Portability: Dart dapat digunakan di berbagai platform, seperti web (kompilasi ke JavaScript) atau native (kompilasi ke ARM dan x86).
+3. Evolusi Dart
+Dart pertama kali diluncurkan pada 2011 dengan fokus pada pengembangan web.
+Pada 2018, Dart 2.0 memperluas jangkauan ke pengembangan mobile dengan Flutter.
+Dart menawarkan performa tinggi dan perkakas modern yang mendukung pengembangan proyek skala besar.
+4. Cara Kerja Dart
+Dart memiliki dua metode eksekusi: Just-in-Time (JIT) dan Ahead-of-Time (AOT).
+JIT mendukung fitur hot reload saat pengembangan.
+AOT menghasilkan performa yang lebih baik tetapi tidak mendukung debugging dan hot reload.
+5. Fitur Hot Reload
+Fitur ini memungkinkan pengembang melihat perubahan kode secara langsung tanpa harus me-restart aplikasi, meningkatkan produktivitas secara signifikan.
+6. Struktur Dasar Bahasa Dart
+Dart adalah bahasa Object-Oriented Programming (OOP) dengan konsep dasar seperti encapsulation, inheritance, abstraction, dan polymorphism.
+Bahasa Dart mendukung berbagai operator, seperti:
+Arithmetic operators: +, -, *, /, ~/, %.
+Increment & Decrement operators: ++, --.
+Equality & Relational operators: ==, !=, <, >, <=, >=.
+Logical operators: !, &&, ||.
+7. DartPad sebagai Alat Latihan
+DartPad adalah kakas online untuk belajar dan menguji kode Dart tanpa perlu setup lokal.
+DartPad mendukung semua core libraries kecuali dart
+.
+8. Contoh Kode Dart
+Contoh dasar “Hello World” di Dart:
+dart
+Copy code
+void main() { 
+  for (int i = 0; i < 5; i++) { 
+    print('hello ${i + 1}'); 
+  } 
+}
+Fungsi main adalah titik awal eksekusi kode di Dart.
+9. Function vs Method
+Function: Ditempatkan di luar class.
+Method: Ditempatkan di dalam class dan memiliki akses ke instance objek dengan keyword this.
+10. Kesimpulan
+Pemahaman yang baik tentang bahasa Dart akan mempercepat dan meningkatkan kualitas pengembangan aplikasi Flutter.
+Dart memberikan fleksibilitas dan kekuatan melalui ekosistemnya yang luas serta fitur lintas platform yang efisien.

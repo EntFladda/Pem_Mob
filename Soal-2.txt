@@ -1,0 +1,9 @@
+Memahami bahasa pemrograman Dart sangat penting sebelum menggunakan Flutter karena:
+
+Flutter dibangun dengan Dart: Semua kode Flutter ditulis dalam Dart, jadi pemahaman dasar diperlukan.
+Sintaks dan struktur: Dart memiliki fitur seperti async-await dan futures yang sering digunakan di Flutter.
+Kinerja: Dart dirancang untuk performa tinggi, sehingga memahami pengelolaan memori membantu membuat aplikasi yang efisien.
+OOP: Konsep pemrograman berorientasi objek di Dart penting untuk memahami widget di Flutter.
+Logika aplikasi: Dart digunakan untuk frontend dan backend, sehingga penguasaan logika pemrograman sangat diperlukan.
+Debugging dan maintenance: Memahami Dart mempermudah dalam menemukan dan memperbaiki bug.
+Dengan Dart yang menjadi dasar Flutter, mempelajarinya akan membuat pengembangan lebih lancar dan efektif.
